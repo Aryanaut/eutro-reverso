@@ -26,3 +26,8 @@ Resources:
 
 [Landsat 8 dataset](https://www.usgs.gov/landsat-missions/landsat-data-access#C2L2)
 
+
+__Results as of 13th December 2021__
+So far we are able to isolate the water body from the background information. Here's what the result looks like. 
+
+!['Isolation of water-body from the background'](logo/conversion.png)
